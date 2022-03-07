@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werdle.Web", "Werdle.Web\Werdle.Web.csproj", "{8D31CC1E-95B0-4BF9-AD8F-9FA9288B9AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werdle.Web.Tests", "Werdle.Web.Tests\Werdle.Web.Tests.csproj", "{1E18175C-14A8-4526-81D8-47FA148139F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D31CC1E-95B0-4BF9-AD8F-9FA9288B9AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D31CC1E-95B0-4BF9-AD8F-9FA9288B9AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D31CC1E-95B0-4BF9-AD8F-9FA9288B9AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D31CC1E-95B0-4BF9-AD8F-9FA9288B9AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E18175C-14A8-4526-81D8-47FA148139F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E18175C-14A8-4526-81D8-47FA148139F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E18175C-14A8-4526-81D8-47FA148139F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E18175C-14A8-4526-81D8-47FA148139F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
